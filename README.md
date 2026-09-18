@@ -17,4 +17,3 @@ From my software engineering days: accepted pull requests to open-source Flutter
 
 `AWS` `Azure` `Kubernetes` `Terraform` `Ansible` `Docker` `Helm` `Lambda` `Serverless` `Microservices` `DevSecOps` `CI/CD` `Datadog` `Amazon Bedrock` `RAG` `Laravel/PHP` `Flutter/Dart` `Go` `Python`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEL-Torky&layout=compact&theme=dark)
