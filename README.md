@@ -7,7 +7,7 @@ I design and run cloud platforms end to end: landing zones (AWS Control Tower, T
 - Portfolio: [torky.dev](https://torky.dev)
 - LinkedIn: [in/meltorky](https://www.linkedin.com/in/meltorky)
 - Verified certifications on [Credly](https://www.credly.com/users/eltorky): CKA, CKAD, AWS Solutions Architect, Terraform Associate, AZ-900
-- Contact: mohamed@torky.dev
+- Contact: contact@torky.dev
 
 ### Open source
 
